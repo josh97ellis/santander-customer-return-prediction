@@ -16,13 +16,8 @@ __Project Structure__
 │  
 ├── models             <- Trained and serialized models, model predictions, or model summaries  
 │  
-├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),  
-│                         the creator's initials, and a short `-` delimited description, e.g.  
-│                         `1.0-jqp-initial-data-exploration`.  
 │  
-│  
-├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.  
-│                         generated with `pip freeze > requirements.txt`  
+├── requirements.txt   <- The requirements file for reproducing the analysis environment
 │  
 └── src                <- Source code for use in this project.  
     ├── __init__.py    <- Makes src a Python module  
