@@ -7,7 +7,7 @@ In this challenge, we invite Kagglers to help us identify which customers will m
 ---
 
 __Project Structure__
-
+```
 ├── README.md          <- The top-level README for developers using this project.  
 ├── data  
 │   ├── processed      <- Canonical data sets for modeling.  
@@ -32,7 +32,7 @@ __Project Structure__
     │  
     └── visualization  <- Scripts to create exploratory and results oriented visualizations  
         └── visualize.py  
-
+```
 __Final Model__
 
 __Kaggle Results__
